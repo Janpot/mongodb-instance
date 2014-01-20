@@ -7,6 +7,10 @@
     "install": "node install.js"
   },
   "author": "Jan Potoms",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janpot/mongodb-instance.git"
+  },
   "license": "GNU-AGPL-3.0",
   "dependencies": {
     "tar": "~0.1.19"
