@@ -37,7 +37,7 @@ if (process.platform === 'linux' && process.arch === 'x64') {
 
 
 var downloadUrl = util.format(
-  'http://downloads.mongodb.org/osx/mongodb-%s-%s.%s',
+  'https://fastdl.mongodb.org/osx/mongodb-%s-%s.%s',
   platformPart,
   versionPart,
   extension
